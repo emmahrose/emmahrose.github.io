@@ -1,8 +1,8 @@
-# Emmah-webpage
+# {Emmah-webpage}
 
 #### Shows details of projects done, {07/08/2017}
 
-#### By **{kevin Odego and Njoroge Mungai}**
+#### By **{Emmahrose}**
 
 ## Description
 
@@ -14,11 +14,8 @@ add branches on github. }
 
 ## Setup/Installation Requirements
 
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-
+* chrome
+* internet access
 
 ## Known Bugs
 {None.}
@@ -28,4 +25,4 @@ add branches on github. }
 {HTML ,CSS and BOOTSTRAPS}
 c
 
-Copyright (c) {year} **{List of contributors or company name}**
+Copyright (c) {2017} **{Emmahrose}**
