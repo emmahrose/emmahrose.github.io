@@ -1,7 +1,17 @@
-.container {
-  background-image: url(../img/emma.bg.jpg);
+#mybody {
+  background-image: url(../img/test.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
   padding-bottom: 400px;
   width: 600;
+}
+
+#occupation {
+  color: maroon;
+}
+
+#tic {
+  text-align: center;
 }
 
 
